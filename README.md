@@ -3,6 +3,8 @@
 A demonstration of a game with a simple AI player, written in
 HTML, CSS and JavaScript. If the human player makes a single mistake, the AI will definitely win.
 
+[Demo](https://funforks.github.io/linear-nim)
+
 Linear Nim is a [subtraction game](https://en.wikipedia.org/wiki/Nim#The_subtraction_game). The game starts with a given number of tokens in a heap (12 in this case). Players take turns to remove
 between 1 and a certain maximum number (3 in this case). The
 player who takes the last token is the winner.
