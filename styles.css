@@ -4,9 +4,10 @@ body {
   align-items: center;
 
   margin: 0;
-  background-color: #000;
+  background-color: #222;
   color: #ccc;
 
+  min-width: 320px;
   min-height: 100vh;
 }
 
